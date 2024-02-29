@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Record Attendance</title>
+    <!-- Add any necessary CSS or styling links here -->
+    <style>
+        /* Example styling */
+        form {
+            margin: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        input[type="date"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h2>Record Attendance</h2>
+    <form action="/attendance" method="post">
+        <label for="date">Select Date:</label>
+        <input type="date" id="date" name="date" required><br><br>
+        <input type="submit" value="Record Attendance">
+    </form>
+</body>
+</html>

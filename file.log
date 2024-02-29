@@ -1,0 +1,91 @@
+2024-01-05 13:21:33,643 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-05 13:21:33,643 - INFO - [33mPress CTRL+C to quit[0m
+2024-01-05 13:21:38,235 - INFO - Started Login
+2024-01-05 13:21:38,243 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:38] "GET /login HTTP/1.1" 200 -
+2024-01-05 13:21:38,275 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:38] "[33mGET /static/new.css HTTP/1.1[0m" 404 -
+2024-01-05 13:21:40,539 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:40] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:21:50,634 - INFO - Started Login
+2024-01-05 13:21:50,986 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-01-05 13:21:50,994 - INFO - User is logged in
+2024-01-05 13:21:51,002 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:51] "GET / HTTP/1.1" 200 -
+2024-01-05 13:21:51,194 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:51] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:21:51,218 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:51] "GET /static/images/GBU_LOGO.jpg HTTP/1.1" 200 -
+2024-01-05 13:21:51,218 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:51] "GET /static/images/GBU_Logo.jpg HTTP/1.1" 200 -
+2024-01-05 13:21:51,226 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:51] "GET /static/script.js HTTP/1.1" 200 -
+2024-01-05 13:21:51,293 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:51] "GET /static/images/GBU.jpg HTTP/1.1" 200 -
+2024-01-05 13:21:53,201 - INFO - 127.0.0.1 - - [05/Jan/2024 13:21:53] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:00,073 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:00] "GET /warden HTTP/1.1" 200 -
+2024-01-05 13:22:00,113 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:00] "[33mGET /style/style.css HTTP/1.1[0m" 404 -
+2024-01-05 13:22:00,121 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:00] "GET /static/style3.css HTTP/1.1" 200 -
+2024-01-05 13:22:00,121 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:00] "GET /static/images/Teacher.jpg HTTP/1.1" 200 -
+2024-01-05 13:22:01,689 - INFO - User is logged in
+2024-01-05 13:22:01,689 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:01] "GET / HTTP/1.1" 200 -
+2024-01-05 13:22:01,729 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:01] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:22:01,737 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:01] "GET /static/script.js HTTP/1.1" 200 -
+2024-01-05 13:22:02,033 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:02] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:02,980 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:02] "GET /committee HTTP/1.1" 200 -
+2024-01-05 13:22:03,012 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:03] "GET /static/style2.css HTTP/1.1" 200 -
+2024-01-05 13:22:03,020 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:03] "GET /static/images/GBU_Logo.jpg HTTP/1.1" 200 -
+2024-01-05 13:22:03,748 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:03] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:04,244 - INFO - User is logged in
+2024-01-05 13:22:04,244 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:04] "GET / HTTP/1.1" 200 -
+2024-01-05 13:22:04,276 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:04] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:22:04,284 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:04] "GET /static/script.js HTTP/1.1" 200 -
+2024-01-05 13:22:04,916 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:04] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:05,308 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:05] "GET /anti_ragging HTTP/1.1" 200 -
+2024-01-05 13:22:06,260 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:06] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:07,028 - INFO - User is logged in
+2024-01-05 13:22:07,028 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:07] "GET / HTTP/1.1" 200 -
+2024-01-05 13:22:07,412 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:07] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:22:07,420 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:07] "GET /static/script.js HTTP/1.1" 200 -
+2024-01-05 13:22:09,140 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:09] "GET /caretaker_info HTTP/1.1" 200 -
+2024-01-05 13:22:09,180 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:09] "GET /static/style2.css HTTP/1.1" 200 -
+2024-01-05 13:22:09,180 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:09] "GET /static/images/GBU_Logo.jpg HTTP/1.1" 200 -
+2024-01-05 13:22:09,364 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:09] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:11,012 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:11] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:11,212 - INFO - User is logged in
+2024-01-05 13:22:11,212 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:11] "GET / HTTP/1.1" 200 -
+2024-01-05 13:22:11,244 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:11] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:22:11,260 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:11] "GET /static/script.js HTTP/1.1" 200 -
+2024-01-05 13:22:13,283 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:13] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:16,163 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:16] "GET /warden HTTP/1.1" 200 -
+2024-01-05 13:22:16,195 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:16] "[33mGET /style/style.css HTTP/1.1[0m" 404 -
+2024-01-05 13:22:16,203 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:16] "GET /static/style3.css HTTP/1.1" 200 -
+2024-01-05 13:22:16,203 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:16] "GET /static/images/Teacher.jpg HTTP/1.1" 200 -
+2024-01-05 13:22:18,139 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:18] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:19,899 - INFO - User is logged in
+2024-01-05 13:22:19,899 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:19] "GET / HTTP/1.1" 200 -
+2024-01-05 13:22:19,947 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:19] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:22:19,947 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:19] "GET /static/script.js HTTP/1.1" 200 -
+2024-01-05 13:22:21,944 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:21] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:22,056 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:22] "GET /attendance HTTP/1.1" 200 -
+2024-01-05 13:22:23,912 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:23] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:33,727 - INFO - User is logged in
+2024-01-05 13:22:33,727 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:33] "GET / HTTP/1.1" 200 -
+2024-01-05 13:22:33,767 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:33] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:22:33,775 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:33] "GET /static/script.js HTTP/1.1" 200 -
+2024-01-05 13:22:35,711 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:35] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:35,911 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:35] "GET /mess_entry HTTP/1.1" 200 -
+2024-01-05 13:22:35,951 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:35] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:22:37,983 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:37] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:42,838 - INFO - User is logged in
+2024-01-05 13:22:42,838 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:42] "GET / HTTP/1.1" 200 -
+2024-01-05 13:22:42,878 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:42] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:22:42,894 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:42] "GET /static/script.js HTTP/1.1" 200 -
+2024-01-05 13:22:44,838 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:44] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:22:52,037 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:52] "GET /mess_entry HTTP/1.1" 200 -
+2024-01-05 13:22:52,069 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:52] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:22:53,925 - INFO - 127.0.0.1 - - [05/Jan/2024 13:22:53] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:23:01,612 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:01] "[33mPOST /record_meals HTTP/1.1[0m" 404 -
+2024-01-05 13:23:02,932 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:02] "GET /mess_entry HTTP/1.1" 200 -
+2024-01-05 13:23:02,972 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:02] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:23:03,484 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:03] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:23:04,820 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:04] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:23:11,707 - INFO - User is logged in
+2024-01-05 13:23:11,707 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:11] "GET / HTTP/1.1" 200 -
+2024-01-05 13:23:11,755 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:11] "GET /static/style.css HTTP/1.1" 200 -
+2024-01-05 13:23:11,763 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:11] "GET /static/script.js HTTP/1.1" 200 -
+2024-01-05 13:23:11,763 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:11] "GET /static/images/GBU_Logo.jpg HTTP/1.1" 200 -
+2024-01-05 13:23:13,791 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:13] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
+2024-01-05 13:23:43,109 - INFO - 127.0.0.1 - - [05/Jan/2024 13:23:43] "[33mGET /flutter_service_worker.js?v=1194232723 HTTP/1.1[0m" 404 -
